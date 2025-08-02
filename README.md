@@ -1,3 +1,5 @@
+![gif](./img/title.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+i'm+n0name...)](https://git.io/typing-svg)
 ## Hi there 👋
 
 <!--
