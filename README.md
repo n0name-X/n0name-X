@@ -1,9 +1,13 @@
 <p align="center"><img src="./img/line.gif" width="100%" height="auto"/></p>
 <p align="center"><img src="./img/title.gif" width="100%" height="auto"/></p>
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=70&width=650&lines=Hi!+I'm+n0name,;Welcome+to+my+homepage!" alt="Title"></img></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=65&width=650&lines=Hi!+I'm+n0name,;Welcome+to+my+homepage!" alt="Title"></img></div>
 
 ## Hi there 👋
+
+* n0name（無名），个人漏洞赏金超过6位数
+* 玄域靶场系统作者、LoveJS作者、myTime鸿蒙应用作者、B站up主
+* 没有绝对安全的系统，只有不断前行的我们！
 
 <!--
 **n0name-X/n0name-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
