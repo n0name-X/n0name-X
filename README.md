@@ -8,6 +8,10 @@
 * n0name（無名），个人漏洞赏金超过6位数
 * 玄域靶场系统作者、LoveJS作者、myTime鸿蒙应用作者、B站up主
 * 没有绝对安全的系统，只有不断前行的我们！
+## Other ✌️
+
+* B站关注：[无名的安全小屋](https://space.bilibili.com/515362065)
+* 玄域靶场：www.shangsec.com
 
 <!--
 **n0name-X/n0name-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
